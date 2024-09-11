@@ -1,1 +1,1 @@
-# first-c-program
+# first-c++-program
